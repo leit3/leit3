@@ -1,0 +1,9 @@
+- 👋 Oi, sou o **@leit3**
+- 👀 Me interesso por **programação** ...
+- 🌱 Sou Graduando em **Sistemas de Informação na UFPA** ...
+- 📫 Para entrar em contato mande um email para **arthur.leite@icen.ufpa.br** ...
+
+<!---
+leit3/leit3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
